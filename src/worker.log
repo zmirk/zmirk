@@ -1,0 +1,28 @@
+  2024-02-26 02:33:19 App\Jobs\ResetRedisTestJob ..................... RUNNING
+  2024-02-26 02:33:19 App\Jobs\ResetRedisTestJob ..................... RUNNING
+  2024-02-26 02:33:19 App\Jobs\ResetRedisTestJob  2024-02-26 02:33:19 App\Jobs\ResetRedisTestJob ................. .....................  2024-02-26 02:33:19 App\Jobs\ResetRedisTestJob 9.15ms DONE
+ RUNNING
+ ..................... RUNNING
+  2024-02-26 02:33:19 App\Jobs\ResetRedisTestJob ................. 7.06ms DONE
+  2024-02-26 02:33:19 App\Jobs\ResetRedisTestJob ................. 7.07ms DONE
+  2024-02-26 02:33:19 App\Jobs\ResetRedisTestJob ................. 7.16ms DONE
+  2024-02-26 02:34:10 App\Jobs\ResetRedisTestJob ..................... RUNNING
+  2024-02-26 02:34:10 App\Jobs\ResetRedisTestJob ................. 2.80ms DONE
+  2024-02-26 02:35:10 App\Jobs\ResetRedisTestJob ..................... RUNNING
+  2024-02-26 02:35:10 App\Jobs\ResetRedisTestJob ................. 5.02ms DONE
+  2024-02-26 02:35:40 App\Jobs\ResetRedisTestJob ..................... RUNNING
+  2024-02-26 02:35:40 App\Jobs\ResetRedisTestJob ................. 2.35ms DONE
+  2024-02-26 02:35:43 App\Jobs\ResetRedisTestJob ..................... RUNNING
+  2024-02-26 02:35:43 App\Jobs\ResetRedisTestJob ................. 2.18ms DONE
+  2024-02-26 02:36:04 App\Jobs\ResetRedisTestJob ..................... RUNNING
+  2024-02-26 02:36:04 App\Jobs\ResetRedisTestJob ................. 4.36ms DONE
+  2024-02-26 02:42:16 App\Jobs\ResetRedisTestJob ..................... RUNNING
+  2024-02-26 02:42:16 App\Jobs\ResetRedisTestJob ................. 3.02ms DONE
+  2024-02-26 05:54:39 App\Jobs\ResetRedisTestJob ..................... RUNNING
+  2024-02-26 05:54:39 App\Jobs\ResetRedisTestJob ................ 10.65ms FAIL
+  2024-02-26 05:54:39 App\Jobs\ResetRedisTestJob ..................... RUNNING
+  2024-02-26 05:54:39 App\Jobs\ResetRedisTestJob ................. 4.14ms FAIL
+  2024-02-26 05:54:39 App\Jobs\ResetRedisTestJob ..................... RUNNING
+  2024-02-26 05:54:39 App\Jobs\ResetRedisTestJob ................. 4.79ms FAIL
+  2024-02-26 05:58:37 App\Jobs\ResetRedisTestJob ..................... RUNNING
+  2024-02-26 05:58:37 App\Jobs\ResetRedisTestJob ................. 5.98ms DONE
